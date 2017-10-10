@@ -1,0 +1,12 @@
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.vbprojResolveAssemblyReference.cache
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Calculadora.resources
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Resources.resources
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.vbproj.GenerateResource.Cache
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.vbproj.CoreCompileInputs.cache
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe.config
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.xml
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.exe
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.xml
+C:\Users\D10101\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb
