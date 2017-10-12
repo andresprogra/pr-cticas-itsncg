@@ -40,6 +40,7 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.CheckedListBox1 = New System.Windows.Forms.CheckedListBox()
         Me.CheckedListBox2 = New System.Windows.Forms.CheckedListBox()
+        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.SuspendLayout()
         '
         'input
@@ -196,6 +197,7 @@ Partial Class Form1
         '
         'CheckedListBox2
         '
+        Me.CheckedListBox2.CheckOnClick = True
         Me.CheckedListBox2.FormattingEnabled = True
         Me.CheckedListBox2.Items.AddRange(New Object() {"Minúscula", "Mayúscula"})
         Me.CheckedListBox2.Location = New System.Drawing.Point(450, 84)
@@ -203,11 +205,21 @@ Partial Class Form1
         Me.CheckedListBox2.Size = New System.Drawing.Size(86, 34)
         Me.CheckedListBox2.TabIndex = 17
         '
+        'ComboBox1
+        '
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Items.AddRange(New Object() {"8", "10", "12", "14", "16", "18", "20", "22", "24"})
+        Me.ComboBox1.Location = New System.Drawing.Point(356, 144)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
+        Me.ComboBox1.TabIndex = 18
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(577, 189)
+        Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.CheckedListBox2)
         Me.Controls.Add(Me.CheckedListBox1)
         Me.Controls.Add(Me.Label3)
@@ -251,4 +263,5 @@ Partial Class Form1
     Friend WithEvents Label3 As Label
     Friend WithEvents CheckedListBox1 As CheckedListBox
     Friend WithEvents CheckedListBox2 As CheckedListBox
+    Friend WithEvents ComboBox1 As ComboBox
 End Class

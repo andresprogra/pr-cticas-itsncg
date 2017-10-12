@@ -72,4 +72,18 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+
+    Private Sub CheckedListBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles CheckedListBox2.SelectedIndexChanged
+        Dim index As Integer = CheckedListBox2.SelectedIndex
+        If index = 0 Then
+            input.Text = input.Text.ToLower()
+        ElseIf index = 1 Then
+            input.Text = input.Text.ToUpper()
+        End If
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+        Dim size As Integer = Val(ComboBox1.SelectedItem)
+        input.Font = New Font(Me.Font.FontFamily, size, FontStyle.Regular)
+    End Sub
 End Class
