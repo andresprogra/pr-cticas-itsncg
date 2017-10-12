@@ -1,0 +1,11 @@
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\bin\Debug\WYSIWYG.exe.config
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.vbprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.Form1.resources
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.Resources.resources
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.vbproj.GenerateResource.Cache
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.xml
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\bin\Debug\WYSIWYG.exe
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\bin\Debug\WYSIWYG.pdb
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\bin\Debug\WYSIWYG.xml
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.exe
+C:\Users\andres\Documents\Visual Studio 2015\Projects\itsncgpracticas\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.pdb
