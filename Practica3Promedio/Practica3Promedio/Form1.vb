@@ -1,12 +1,4 @@
 ﻿Public Class Form1
-    Private Sub Label7_Click(sender As Object, e As EventArgs) Handles Label7.Click
-
-    End Sub
-
-    Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
-
-    End Sub
-
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim uniti, unitii, unitiii, unitiv, unitv, suma, promedio As Decimal
         uniti = txtunidadi.Text
